@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Wajiha-Nazir
-- 👀 I’m interested in Frontend Web Development.
+- 👋 Hi, I’m Wajiha-Nazir
+- 👀 I’m interested in Front-End Web Development.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on remote working companies.
 - 📫 Reach me by sahitowajiha@gmail.com
